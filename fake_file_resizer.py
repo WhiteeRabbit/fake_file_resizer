@@ -23,5 +23,5 @@ def pad_executable(input_file, output_file, target_size_mb):
 
 in_file = input('your input file name:')
 out_file = input('your output file name:')
-num = input('your desired size:')
+num = input('your desired size in mb:')
 pad_executable(in_file, out_file, num)
