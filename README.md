@@ -1,6 +1,7 @@
 # fake_file_resizer 📏
 
 <h2>With help of this app you can easily change your file's size as you wanted!</h2>
+<h4>In one word this app generates new app from yours and makes new app's size just like you wanted!</h4>
 
 ```bash
 Download python in your system.
