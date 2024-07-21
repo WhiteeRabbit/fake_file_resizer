@@ -1,6 +1,6 @@
 # fake_file_resizer 📏
 
-With help of this porgram you can easily change your file's size
+<h2>With help of this porgram you can easily change your file's size as you wanted!</h2>
 
 ```bash
 Download python in your system.
