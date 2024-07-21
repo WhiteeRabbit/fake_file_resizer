@@ -1,8 +1,17 @@
-# fake_file_size
-with this program you can change your file's size without any problems!
+# fake_file_resizer 📏
 
+With help of this porgram you can change your file's size
 
+```bash
+Run this script:
 
+$ python3 fake_file_resizer.py
+
+# OR
+
+$ python fake_file_resizer.py
+
+```
 
 ## :memo: License ##
 
