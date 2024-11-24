@@ -21,7 +21,7 @@ def pad_executable(input_file, output_file, target_size_mb):
     print(f"* File '{output_file}' has been created with size {target_size_mb} MB.")
 
 
-in_file = input('your input file name:')
-out_file = input('your output file name:')
-num = input('your desired size in mb:')
+in_file = input('Your input file name (for exmpl: test.exe):')
+out_file = input('Your output file name (for exmpl: test.exe):')
+num = int(input('Your desired size in mb:'))
 pad_executable(in_file, out_file, num)
